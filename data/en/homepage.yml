@@ -6,7 +6,7 @@ banner:
   image : "images/watch.png"
   button:
    enable : true
-   label : "Browse All Products"
+   label : "Topa todos los productos"
    link : "products"
 
 ############################# Feature ############################
@@ -93,12 +93,12 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Topa los productos chidos que tenemos"
 
 
 ################################## Subscription ###################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/call-to-action.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -108,22 +108,22 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Lo que dicen nuestros clientes"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Valentina"
+      designation : "CEO, Purrhouse"
+      image : "images/michi.png"
+      content : "Miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau "
       
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+    - name : "Chibi"
+      designation : "CEO, Pelotitas Inc"
+      image : "images/chibi.jpeg"
+      content : "Miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau miau"
+
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name : "Gato ruposo"
+      designation : "CEO, Rupland"
+      image : "images/not-momo.jpeg"
+      content : "Rup."
