@@ -3,18 +3,18 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Meeple Store"
+[Languages.es]
+contentDir = "content"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+languageCode = "es-mx"
+languageName = "Es"
+weight = 1
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
