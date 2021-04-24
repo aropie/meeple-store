@@ -8,10 +8,7 @@ images:
 description: this is meta description
 price: '220.00'
 discount_price: ''
-colors:
-- negro
-- blanco
-- amarillo
+colors: []
 sizes: []
 
 ---
