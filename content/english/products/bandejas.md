@@ -9,6 +9,7 @@ description: this is meta description
 price: '220.00'
 discount_price: ''
 sizes: []
+tags: ['Filamento', 'Accesorios']
 
 ---
 Bandejitas chidas
