@@ -4,10 +4,10 @@ date = nil
 description = "this is meta description"
 discount_price = ""
 draft = true
-images = ["/images/torre-1.jpeg", "/images/torre-2.jpeg"]
-price = "120.00"
+images = ["/images/bandeja-larga-1.jpeg", "/images/bandeja-larga-2.jpeg", "/images/bandeja-larga-3.jpeg"]
+price = "220.00"
 sizes = []
 title = "Bandejas"
 
 +++
-Torre de dados very chida
+Bandejitas chidas
