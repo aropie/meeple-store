@@ -3,23 +3,11 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Haz tu pedido"
+  mobile : "5513642405"
+  email : "stephani.sanchez08@outlook.com"
+  location : "Ciudad de México, envíos a toda la república"
+  content : "Contactanos para hacer tu pedido"
 
-# opennig hour
-opennig_hour:
-  title : "Opening Hours"
-  day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
-    
 draft: false
 ---
