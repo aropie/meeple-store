@@ -1,3 +1,17 @@
 {
-    "colors": ["Rojo", "Blanco"]
+  "colors": [
+    "Rojo",
+    "Blanco",
+    "Morado",
+    "Verde",
+    "Negro",
+    "Rosa",
+    "Naranja",
+    "Gris",
+    "Café",
+    "Azul pastel",
+    "Azul marino",
+    "Azul medio",
+    "Amarillo"
+  ]
 }
