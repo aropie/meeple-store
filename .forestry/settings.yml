@@ -8,31 +8,6 @@ sections:
   path: data/**/*
   label: Data
 - type: directory
-  path: content/blog
-  label: Blog
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/contact
-  label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/privacy-policy
-  label: Privacy policy
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/products
-  label: Products
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/terms-conditions
-  label: Terms conditions
-  create: all
-  match: "**/*"
-- type: directory
   path: content
   label: Pages
   create: all
