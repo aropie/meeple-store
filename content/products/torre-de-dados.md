@@ -9,6 +9,7 @@ price: '120.00'
 discount_price: ''
 colors: []
 sizes: []
+tags: ['Filamento', 'Accesorios']
 
 ---
 Torre de dados very chida
