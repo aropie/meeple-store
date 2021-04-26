@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: data/**/*
+  label: Data
+  match: "**/*"
 - type: directory
   path: content/blog
   label: Blog
@@ -12,16 +16,6 @@ sections:
 - type: directory
   path: content/contact
   label: Contact
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/english.bak
-  label: English.bak
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/french
-  label: French
   create: all
   match: "**/*"
 - type: directory
