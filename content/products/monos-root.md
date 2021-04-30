@@ -1,6 +1,5 @@
 +++
 colors = []
-date = nil
 description = "this is meta description"
 discount_price = ""
 images = ["/images/torre-1.jpeg"]
