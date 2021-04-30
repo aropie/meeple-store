@@ -3,7 +3,6 @@ colors = []
 date = nil
 description = "this is meta description"
 discount_price = ""
-draft = true
 images = ["/images/torre-1.jpeg"]
 juegos = []
 price = "120.00"
