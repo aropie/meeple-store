@@ -23,3 +23,5 @@ fields:
 - type: list
   name: juegos
   label: juegos
+pages:
+- content/products/lalalala.md
