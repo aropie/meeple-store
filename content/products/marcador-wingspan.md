@@ -8,7 +8,7 @@ images:
 - "/images/marcador-wingspan-4.jpeg"
 description: this is meta description
 price: '120.00'
-discount_price: "90"
+discount_price: ''
 colors: []
 sizes: []
 tags:
