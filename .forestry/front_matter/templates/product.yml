@@ -24,5 +24,6 @@ fields:
   name: juegos
   label: juegos
 pages:
+- content/products/brass-tren-canoa.md
 - content/products/lalalala.md
 - content/products/wingspan-recursos.md
