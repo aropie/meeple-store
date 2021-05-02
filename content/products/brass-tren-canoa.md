@@ -4,7 +4,7 @@ images = ["/images/whatsapp-image-2021-04-30-at-19-13-27-1.jpeg", "/images/whats
 juegos = ["brass"]
 price = "450"
 sizes = []
-tags = ["fillamento"]
+tags = ["colores", "Filamento"]
 title = "Brass Tren & Canoa"
 
 +++
