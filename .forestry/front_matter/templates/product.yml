@@ -25,5 +25,6 @@ fields:
   label: juegos
 pages:
 - content/products/brass-tren-canoa.md
+- content/products/miniaturas-root.md
 - content/products/protectores-de-fichas.md
 - content/products/wingspan-recursos.md
