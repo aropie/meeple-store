@@ -9,7 +9,13 @@ description: this is meta description
 price: '220.00'
 discount_price: ''
 sizes: []
-tags: ['Filamento', 'Accesorios']
+tags:
+- Filamento
+- Accesorios
 
 ---
-Bandejitas chidas
+Porta tarjetas y contenedor de recursos.
+
+Dimensiones:
+
+18 x 5 x 1.3 cm 
