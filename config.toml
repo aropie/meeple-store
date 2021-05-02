@@ -31,10 +31,10 @@ name = "Inicio"
 url = "/"
 weight = 1
 [params]
-author = "Themefisher"
+author = "Adrian Rodriguez"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "Todo para tu juego"
 logo = "images/logo.png"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
