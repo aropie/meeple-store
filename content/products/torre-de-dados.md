@@ -9,7 +9,12 @@ price: '120.00'
 discount_price: ''
 colors: []
 sizes: []
-tags: ['Filamento', 'Accesorios']
+tags:
+- Filamento
+- Accesorios
 
 ---
-Torre de dados very chida
+Torre de dados.   
+Dimensiones 12 x 5 x 5 cm.
+
+Material PLA. Polimero biodegradable. 
