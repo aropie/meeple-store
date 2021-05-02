@@ -18,4 +18,20 @@ juegos:
 - wingspan
 
 ---
-Torre de dados very chida
+Marcadores de puntos para juego Wingspan.
+
+Incluye:
+
+Casas pajareras en 5 diferentes colores:
+
+Colores base del juego:
+
+8 Casas Rojo
+
+8 Casas Azul
+
+8 Casas Amarillo
+
+8 Casas Morado
+
+8 Casas Verde
