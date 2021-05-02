@@ -5,10 +5,10 @@ juegos = []
 price = "400.00"
 sizes = []
 tags = ["colores", "fillamento"]
-title = "Protectores de fichas"
+title = "Protectores de fichas Orleans"
 
 +++
-Incluye lo siguiente:
+Incluye lo siguientePara juego base Orleans:
 
 18 Farmers Blancos
 
@@ -24,6 +24,6 @@ Incluye lo siguiente:
 
 12 Boatmen Azul
 
- 4 piezas por color de jugador: azul, amarillo, verde, rojo, negro
+4 piezas por color de jugador: azul, amarillo, verde, rojo, negro
 
 Total 125 piezas.
