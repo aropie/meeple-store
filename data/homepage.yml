@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Mejora tus juegos"
   content: "Recursos, bandejas, insertos, miniaturas y todo lo que necesitas para que tus juegos brillen en la mesa."
-  image: "images/michi.png"
+  image: "images/banner.jpeg"
   button:
     enable: true
     label: "Mira todos nuestros productos"
