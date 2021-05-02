@@ -10,11 +10,11 @@ title = "Miniaturas root"
 
 +++
 Miniaturas para pintar Root Base: $1100.00  
- Incluye:
+Incluye:
 
 25 piezas Marquesado.
 
-20 Piezas Dinastia Eyrie 
+20 Piezas Dinastia Eyrie
 
 10 Piezas Alianza
 
