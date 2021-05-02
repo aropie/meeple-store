@@ -6,7 +6,7 @@ images:
 - "/images/charola-1.jpeg"
 description: Contenedores para bits, tokens, monedas, recursos.  Incluye 4 charolas
   que pueden ser de diferentes colores.
-price: "150"
+price: '150.00'
 discount_price: ''
 colors: []
 sizes: []
