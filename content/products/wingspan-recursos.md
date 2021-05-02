@@ -2,7 +2,7 @@
 discount_price = ""
 images = ["/images/whatsapp-image-2021-04-30-at-19-13-21-1.jpeg", "/images/whatsapp-image-2021-04-30-at-19-13-25.jpeg"]
 juegos = []
-price = "450.00"
+price = "430.00"
 sizes = []
 tags = []
 title = "Wingspan recursos"
