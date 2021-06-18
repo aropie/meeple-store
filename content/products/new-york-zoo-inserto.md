@@ -1,6 +1,5 @@
 +++
 discount_price = ""
-draft = true
 images = ["/images/nyzoo.jpeg", "/images/nyzoo1.jpeg"]
 juegos = []
 price = "$250"
