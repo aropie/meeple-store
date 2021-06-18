@@ -11,7 +11,7 @@ title = "Quacks of Queldinburg Protectores"
 +++
 Incluye
 
-Juego base compuesto por 227 deluxe upgrades para tokens
+Juego base compuesto por 227 deluxe upgrades para tokens $650
 
 36 tokens blanco  
 39 tokens verde  
@@ -26,33 +26,26 @@ Juego base compuesto por 227 deluxe upgrades para tokens
 
 ***
 
-Expansion Herbs witches  
+Expansion Herbs witches $400  
 Expansion  con 163 deluxe token  
-\* 12 tokens blanco  
-\* 21 tokens verde  
-\* 19 tokens azul  
-\* 17 tokens rojo  
-\* 17 tokens amarillo  
-\* 9 tokens morado  
-\* 33 tokens naranja  
-\* 9 tokens negro  
-\* 26 tokens rosa  
+ 12 tokens blanco  
+21 tokens verde  
+19 tokens azul  
+17 tokens rojo  
+17 tokens amarillo  
+9 tokens morado  
+33 tokens naranja  
+9 tokens negro  
+26 tokens rosa  
   
-WITCH COIN SET ( for herb witches expansion):  
-\* 18 deluxe token shields, 1 extra in each color!  
-\* 1 plastic storage baggie  
-  
-== Token Shield quantities by color:  
-\* 6 Gold  
-\* 6 Silver  
-\* 6 Copper  
+WITCH COIN SET ( for herb witches expansion): $60  
+Protectores para monedas   
+6 Oro  
+6 Plata  
+6 Cobre  
 _______________________  
 ALCHEMISTS EXPANSION:  
-\* 80 deluxe upgraded tokens, 1 extra in each color!  
-\* 2 plastic bags  
-\* super glue  
+80 deluxe upgraded tokens $200  
   
-== Token quantities by color:  
-  
-\* 49 white tokens (40 cherry bombs, 8 patients)  
-\* 31 pine tokens
+49  tokens blanco  
+31  tokens verde
