@@ -14,6 +14,7 @@ sizes: []
 tags:
 - Filamento
 - Accesorios
+draft: true
 
 ---
 Contenedores para bits, tokens, monedas, recursos.
