@@ -24,6 +24,7 @@ fields:
   name: juegos
   label: juegos
 pages:
+- content/products/accesorios-para-tzolkin-teotihuacan.md
 - content/products/anachrony-tokens.md
 - content/products/brass-tren-canoa.md
 - content/products/dinosaur-island.md
