@@ -16,8 +16,10 @@ Ancho 12 cm
 
 Largo 17 cm
 
-Altura 5 cm 
+Altura 5 cm
 
 15 espacios para pinturas
 
 12 espacios para pinceles.
+
+**_No incluye pintura/pinceles_**
