@@ -1,5 +1,6 @@
 +++
 discount_price = ""
+draft = true
 images = ["/images/orleans.jpeg", "/images/whatsapp-image-2021-08-11-at-23-58-08.jpeg", "/images/protector-orleans.jpeg"]
 juegos = []
 price = "400.00"
