@@ -9,3 +9,6 @@ tags = []
 title = "Charolas para recursos"
 
 +++
+Contenedores para bits, tokens, monedas, recursos.
+
+Incluye 4 charolas que pueden ser de diferentes colores.
