@@ -2,7 +2,7 @@
 discount_price = ""
 images = ["/images/root.jpeg"]
 juegos = []
-price = "1200.00"
+price = "1100.00-1700"
 sizes = []
 tags = []
 title = "Miniaturas root"
