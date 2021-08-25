@@ -5,7 +5,7 @@ images:
 - "/images/torre-1.jpeg"
 - "/images/torre-2.jpeg"
 description: this is meta description
-price: '120.00'
+price: '300.00'
 discount_price: ''
 colors: []
 sizes: []
@@ -17,4 +17,4 @@ tags:
 Torre de dados.   
 Dimensiones 12 x 5 x 5 cm.
 
-Material PLA. Polimero biodegradable. 
+Material PLA. Polimero biodegradable.
